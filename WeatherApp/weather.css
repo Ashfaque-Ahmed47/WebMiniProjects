@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color: #222;
+}
+.card
+{
+    width: 90%;
+    max-width: 370px;
+    background:aquamarine; 
+    color: blue; 
+    border-radius: 20px;
+
+    margin: 40px auto 0;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.search
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search input
+{
+    padding: 10px;
+    margin: 10px ;
+    border-radius: 30px ;
+    flex: 1;
+    align-items: right;
+    height: 60px;
+    background: #ebfffc;
+
+    margin-right: 15px;
+}
+
+.search button
+{
+    border: 0;
+    outline: 0;
+    background: #ebfffc;
+    width: 60px;
+    height: 60px;
+   border-radius: 50%;
+}
+
+.search button img
+{
+    width: 16px ;
+}
+
+.details
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    margin: 50px;
+}
+
+.weather-icon
+{
+  width: 170px;
+  margin-top: 30px ;
+}
+
+.weather h1
+{
+    font-size: 80px;
+    font-weight: 500;
+    margin-top: -10px ;
+}
+
+.weather h2
+{
+    font-size: 40px;
+    font-weight: 350;
+    margin-top: -10px;
+}
+
+.humidity, .wind
+{
+    font-size: 22px;
+    margin-top: -4px;
+}
+.col1 img
+{
+    width: 40px ;
+    margin-right: 10px ;
+
+}
+.col2 img
+{
+    width: 40px ;
+    margin-right: 10px ;
+
+}

@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+.container
+{
+    width: 100%;
+    height: 100vh;
+    background: url('wave-haikei\ \(1\).png') no-repeat;
+    background-size: cover;
+
+
+}
+
+.box
+{
+    width: 400px;
+    position: relative;
+    top: 20%;
+    left: 30%;
+    box-shadow: 2px 2px 5px whitesmoke, -2px -2px 5px whitesmoke;
+    border-radius: 8px;
+    backdrop-filter: blur(8px);
+    padding: 20px 30px;
+
+}
+
+.signup-body p{
+    margin-top: 20px;
+}
+
+.signup-body p label {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.signup-body p input {
+
+    width: 100%;
+    padding: 10px; 
+    margin: 5px;
+    border-radius: 6px;
+    outline: none;
+    border: none;
+}
+
+.signup-body p i{
+    position: absolute;
+    top: 25%; 
+    right: 28px; 
+    color: rgb(93, 153, 3);
+    font-size: 17px;
+
+
+}
+.signup-body p span{
+    font-size: 14px;
+    font-weight: 300;
+    color: rgb(7, 183, 7);
+}
+
+.signup-body p input[ type="submit"]
+{
+    
+   border: none;
+   background-color: dodgerblue;
+   font-size: 18px;
+   font-weight: 400;
+
+   cursor: pointer;
+
+}
+
+.signup-body p input[ type="submit"]:hover
+{
+    background-color: aquamarine;
+}
+
+.signup-footer p {
+
+    margin-top: 20px;
+    font-weight: 500;
+    text-align: center;
+
+}
+
+.signup-footer p a {
+    text-decoration: none;
+}
+.signup-footer p a:hover {
+    text-decoration: underline;
+}
