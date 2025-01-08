@@ -3,7 +3,7 @@ A collection of web development mini-projects for educational purposes. Please u
 
 # Web Development Mini-Projects
 
-This repository contains a collection of mini-projects in web development. These resources were shared by [Teacher's Name] to support students in enhancing their skills and understanding of web technologies.
+This repository contains a collection of mini-projects in web development. These resources were shared by Dr Mohsin Shaikh to support students in enhancing their skills and understanding of web technologies.
 
 ## Purpose
 - **For Students**: These files are intended as learning material. Students are encouraged to study the code, practice, and build upon these projects to improve their skills.
@@ -18,7 +18,7 @@ The repository includes:
 ## Disclaimer
 These files are shared for **educational purposes only**.# Web Development Mini-Projects
 
-This repository contains a collection of mini-projects in web development. These resources were shared by [Teacher's Name] to support students in enhancing their skills and understanding of web technologies.
+This repository contains a collection of mini-projects in web development. These resources were shared by Dr Mohsin Shaikh to support students in enhancing their skills and understanding of web technologies.
 
 ## Purpose
 - **For Students**: These files are intended as learning material. Students are encouraged to study the code, practice, and build upon these projects to improve their skills.
@@ -36,7 +36,6 @@ These files are shared for **educational purposes only**. Credit goes to the Dr 
 ## How to Use
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
 
 
 ## How to Use
