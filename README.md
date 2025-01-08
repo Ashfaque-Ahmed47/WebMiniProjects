@@ -38,5 +38,13 @@ These files are shared for **educational purposes only**. Credit goes to the Dr 
    ```bash
 git clone https://github.com/Ashfaque-Ahmed47/WebMiniProjects.git
 
+## How to Download
+
+To download this repository as a ZIP file:
+
+1. Click on the **Code** button (green button) at the top of this page.
+2. Select **Download ZIP** from the dropdown menu.
+3. Once downloaded, extract the ZIP file to access the project files.
+4. Open the `.html` files in a browser or use a code editor (e.g., Visual Studio Code) to view and modify them.
 
 
