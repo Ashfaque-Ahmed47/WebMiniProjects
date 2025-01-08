@@ -36,7 +36,7 @@ These files are shared for **educational purposes only**. Credit goes to the Dr 
 ## How to Use
 1. Clone or download the repository:
    ```bash
-git clone https://github.com/Ashfaque-Ahmed47/WebMiniProjects.git
+   git clone https://github.com/Ashfaque-Ahmed47/WebMiniProjects.git
 
 ## How to Download
 
